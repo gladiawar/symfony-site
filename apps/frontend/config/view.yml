@@ -1,0 +1,17 @@
+default:
+  http_metas:
+    content-type: text/html
+
+  metas:
+    title:        Gladiawar : Arena - EIP 2014
+    robots:       index, follow
+    description:  Gladiawar : Arena
+    keywords:     gladiawar arena eip epitech 2014
+    language:     en
+
+  stylesheets:    [style]
+
+  javascripts:    [jquery.min.js, jquery.easing.min.js, jquery.lavalamp.min.js, image_fade.js]
+
+  has_layout:     on
+  layout:         layout

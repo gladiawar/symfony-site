@@ -1,0 +1,42 @@
+all:
+  site:
+    menu:
+      home:
+        label:										Home
+      team:
+        label:										Team
+      project:
+        label:										Project
+      contact:
+        label:										Contact
+
+    team:
+      dubreu_j:
+        name:											Dubreucq Jean-Baptiste
+        image:										member.png
+        content:									Team leader
+      duval_q:
+        name:											Duval Quentin
+        image:										member.png
+        content:									...
+      lecalv_g:
+        name:											Lecalvez Guillaume
+        image:										member.png
+        content:									...
+      ramsey_c:
+        name:											Ramseyer Claude
+        image:										member.png
+        content:									...
+      delaig_j:
+        name:											Delaigues Julien
+        image:										member.png
+        content:									...
+      kersuz_v:
+        name:											Kersuzan Vincent
+        image:										member.png
+        content:									...
+      frizac_b:
+        name:											Frizac Alexandre
+        image:										member.png
+        content:									...
+

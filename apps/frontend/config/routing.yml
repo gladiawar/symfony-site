@@ -1,0 +1,8 @@
+# default rules
+homepage:
+  url:   /
+  param: { module: site, action: home }
+
+site:
+  url:		/:action
+  param:	{ module: site }

@@ -1,0 +1,1 @@
+<?php echo gw_sidebar($items) ?>

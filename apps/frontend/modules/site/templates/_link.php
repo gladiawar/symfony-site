@@ -1,0 +1,1 @@
+<div id="contact"><?php echo link_to(image_tag("epitech", array("width" => "150")), "http://www.epitech.eu") ?></div>

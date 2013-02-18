@@ -1,0 +1,1 @@
+<?php echo gw_menu($menu, $current); ?>
