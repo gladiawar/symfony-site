@@ -5,8 +5,8 @@ all:
         label:										Home
       team:
         label:										Team
-      project:
-        label:										Project
+#      project:
+#        label:										Project
       contact:
         label:										Contact
 
@@ -39,4 +39,13 @@ all:
         name:											Frizac Alexandre
         image:										member.png
         content:									...
+
+  content:
+    home: |
+          L'EIP Gladiawar est un jeu vidéo multijoueurs en ligne se déroulant dans un univers antique dans des arènes.
+          Le joueur devra coopérer avec d'autres joueurs afin de former une équipe qui en affrontera une autre. Le format souhaité est cinq contre cinq.
+          L'objectif du jeu est de vaincre le plus d'équipes adverses afin de faire évoluer son personnage sur son équipement et sur son ratio de victoires / défaites.
+          Chaque fin de combat se soldera par le gain de points d'expérience et de monnaie virtuelle qui permettra au joueur de faire évoluer son personnage.
+          Les joueurs qui le souhaitent pourront également regarder depuis les gradins les combats d'autres équipes et parier sur l'issu du combat.
+          Un site permettant de suivre les meilleurs joueurs ainsi que leur ratio sera disponible et connecter à la base de donnée du jeu pour mettre ses données de compte à jour.
 

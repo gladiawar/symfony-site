@@ -8,7 +8,7 @@
 class siteActions extends sfActions {
 
 	public function executeHome() {
-
+		$this->content = sfConfig::get("app_content_home", "plop");
 	}
 
 	public function executeTeam() {
